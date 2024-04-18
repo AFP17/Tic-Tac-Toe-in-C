@@ -18,15 +18,15 @@ This is a simple command-line implementation of the classic TicTacToe game writt
     ```
 2. Navigate to the project directory:
     ```
-    cd TicTacToe-C
+    cd Tic-Tac-Toe-in-C
     ```
 3. Compile the source code using any C compiler.
     ```
-    gcc main.c -o TicTacToe
+    gcc TicTacToe.c -o tictactoe
     ```
 4. Run the executable file:
     ```
-    ./TicTacToe
+    ./tictactoe
     ```
 5. Follow the on-screen instructions to play the game against the computer.
 
